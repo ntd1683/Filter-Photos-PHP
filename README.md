@@ -4,4 +4,4 @@ B1 : Bạn mở "file_name.txt" và file "Hướng Dẫn.png"
 B2 : Điền vào file "file_name.txt" như hướng dẫn của file "Hướng Dẫn.png"
 B3 : Gõ lên thanh đường dẫn "cmd"
 B4 : Nhập "php fillter_photos.php"
-<div style="padding-top:62.200%;position:relative;"><iframe src="https://gifer.com/embed/zWm" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+![](https://github.com/ntd1683/Filter_Photos/blob/main/File%20n%C3%A0y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%C4%91%E1%BB%ABng%20xem/zWm.gif)
