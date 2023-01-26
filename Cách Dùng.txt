@@ -1,5 +1,0 @@
-LƯU Ý : NHỚ DÁN VÀO CHUNG VỚI THƯ MỤC ẢNH
-B1 : Bạn mở "file_name.txt" và file "Hướng Dẫn.png"
-B2 : Điền vào file "file_name.txt" như hướng dẫn của file "Hướng Dẫn.png"
-B3 : Gõ lên thanh đường dẫn "cmd"
-B4 : Nhập "php fillter_photos.php"
