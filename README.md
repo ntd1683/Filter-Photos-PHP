@@ -82,6 +82,5 @@ Bạn Cần Tải Những Phần Mềm Dưới Đây:
 ![B7](https://raw.githubusercontent.com/ntd1683/Filter_Photos/main/File%20n%C3%A0y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%C4%91%E1%BB%ABng%20xem/ok%20xog.png)
 
 Author
-- NTD
-<br>
-![](https://github.com/ntd1683/Filter_Photos/blob/main/File%20n%C3%A0y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%C4%91%E1%BB%ABng%20xem/zWm.gif)
+- NTD <br>
+![gif](https://raw.githubusercontent.com/ntd1683/Filter_Photos/main/File%20n%C3%A0y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%C4%91%E1%BB%ABng%20xem/zWm.gif)
