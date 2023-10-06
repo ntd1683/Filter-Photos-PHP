@@ -3,6 +3,9 @@
 Tool giúp các bạn nhiếp ảnh gia lọc ảnh nhanh hơn
 <br>Video Hướng Dẫn Cụ Thể : -[YOUTUBE](https://youtu.be/Lj4jLvsL71Y)
 
+## Gợi Ý
+- Bạn có thể dùng "tool" được viết bằng c# để có dễ dàng sử dụng và cài đặt hơn
+  [C#](https://github.com/ntd1683/Filter-Photos-Windows)
 ## Đặc Điểm
 - Được Viết Bằng Ngôn Ngữ `PHP` và xử lý bằng `Command Prompt` của Window
 
